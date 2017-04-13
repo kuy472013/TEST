@@ -5,5 +5,7 @@ public class hi{
 		System.out.println("JAVA");
 		System.out.println("Programing");
 		System.out.println("git");
+		System.out.println("smc");
+		System.out.println("20107");
 	}
 }
